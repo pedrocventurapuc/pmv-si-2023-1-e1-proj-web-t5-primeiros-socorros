@@ -6,8 +6,9 @@
 
 `SEMESTRE: 1º`
 
-O projeto que está sendo desenvolvido tem o objetivo de auxiliar leigos em primeiros socorros através da aplicação informativa 
-sobre os primeiros socorros que inclua também, uma seção de envio de dúvidas para os especialistas.
+O projeto que está sendo desenvolvido tem o objetivo de auxiliar leigos em primeiros socorros. 
+
+Desenvolver uma aplicação informativa sobre os primeiros socorros que inclua também, uma seção de envio de dúvidas para os especialistas.
 Além disso, a aplicação pode exibir também, a localização de hospitais e PSFs mais próximos.
 
 
