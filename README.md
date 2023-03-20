@@ -6,19 +6,23 @@
 
 `SEMESTRE: 1º`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O projeto que está sendo desenvolvido tem o objetivo de auxiliar leigos em primeiros socorros através da aplicação informativa 
+sobre os primeiros socorros que inclua também, uma seção de envio de dúvidas para os especialistas.
+Além disso, a aplicação pode exibir também, a localização de hospitais e PSFs mais próximos.
+
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
+ Letícia Oliveira Aquino
+ Felipe Preccinoto De Oliveira E Silva
+ Lorena Soares Souza
+ Lucas Henrique Oliveira Prado 
+ Pedro Cordeiro Ventura
+ Layssa Aragão Braz 
 
 ## Orientador
 
-* Nome completo do professor 1
+Luciana de Nardin
 
 # Planejamento
 
