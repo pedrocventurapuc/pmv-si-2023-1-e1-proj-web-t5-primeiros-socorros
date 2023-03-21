@@ -14,16 +14,16 @@ Além disso, a aplicação pode exibir também, a localização de hospitais e P
 
 ## Integrantes
 
- 1. Letícia Oliveira Aquino
- 2. Felipe Preccinoto De Oliveira E Silva
- 3. Lorena Soares Souza
- 4. Lucas Henrique Oliveira Prado 
- 5. Pedro Cordeiro Ventura
- 6. Layssa Aragão Braz 
+* Letícia Oliveira Aquino
+* Felipe Preccinoto De Oliveira E Silva
+* Lorena Soares Souza
+* Lucas Henrique Oliveira Prado 
+* Pedro Cordeiro Ventura
+* Layssa Aragão Braz 
 
 ## Orientador
 
-Luciana de Nardin
+* Luciana de Nardin
 
 # Planejamento
 
