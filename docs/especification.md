@@ -12,6 +12,17 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 ---
 ![ana](https://user-images.githubusercontent.com/105678089/226934176-07b6a429-4cf8-4c67-9098-42a2308654c2.png)
 
+Geralda Pereira, 55 anos, contadora, trabalhando em seu escritório sentiu uma forte dor de cabeça, 
+de início súbito. Além disso, sentiu fraqueza e dormência na face e braços afetando um dos lados do corpo.
+Preocupada com o estado de Geralda, sua estagiária no escritório procura alguma informação online que possa ajudar.
+
+
+Glória Fernandes, 43 anos, cozinheira em um restaurante no centro de Belo Horizonte, está fazendo suas atividades rotineiras 
+antes do horário de abertura do estabelecimento. Como de costume, Glória prepara a panela com água e coloca sob a chama acesa do fogão.
+Por um descuido, Glória deixa a panela cair, causando uma grande queimadura em suas pernas e tronco. O gerente do restaurante não sabe como agir, pois 
+os "conhecimentos populares" dizem para passar pó de café ou até mesmo pasta de dente nas queimaduras. Assim, o gerente de Glória procura informações sobre 
+procedimento para queimadura online.
+
 
 ## Histórias de Usuários
 
