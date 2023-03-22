@@ -1,13 +1,8 @@
 # Introdução
 
-Imagine que você deseja apresentar este projeto para investidores que deverão decidir se investem ou não no desenvolvimento da sua ferramenta.
+Esse projeto tem como objetivo fornecer informações relacionadas a pronto-atendimento médico e quais os procedimentos a serem seguidos diante de situações de emergência. O site pode fornecer informações sobre serviços médicos, locais de tratamento e tipos específicos de serviços oferecidos. Além disso, pode fornecer tutoriais visuais que mostrem como realizar procedimentos de primeiros socorros, instruções de autocuidado.
+<p>A interface interativa e intuitiva do site ajuda os usuários a encontrar informações para atendimentos médicos, locais de tratamento e serviços específicos além de poder ajudar os usuários a obter uma compreensão prática sobre como realizar procedimentos de primeiros socorros e instruções sobre o que fazer em caso de uma situação emergencial, bem como fornecer instruções úteis sobre como se cuidar em casa. O desenvolvimento deste site pode ajudar a melhorar a saúde e bem-estar dos usuários, além de salvar vidas em caso de uma premência.
 
-A **Introdução** consiste das etapas: *Contextualização -- Definição do problema -- Definição dos Objetivos -- Justificativa*, e tem como função situar o seu trabalho dentro de um contexto de mercado e mostrar a importância da sua proposta para resolver a dor de um usuário.
-
-
-A Contextualização deve situar sem projeto em um determinado contexto de mercado, a fim de fornecer informações adicionais que possam ajudar a entender melhor o assunto que você irá abordar. Serve também para definir a relevância do seu assunto, uma vez que mostra o tamanho do mercado em que se está inserido. Ela pode envolver a análise de vários aspectos, como o ambiente histórico, cultural, político e social em que o problema a ser atacado surgiu.
-
-Escreva de 2 a 3 parágrafos para contetualizar o seu projeto.
 
 ## Problema
 
