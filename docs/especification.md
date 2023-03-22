@@ -4,7 +4,6 @@ Definição do problema e ideia de solução a partir da perspectiva do usuário
 
 Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
 
-## Personas
 
 # Personas #
 ![Marcela](https://user-images.githubusercontent.com/105678089/226703256-6184b5e7-7274-480f-a89f-022f396ee173.png)
