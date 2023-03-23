@@ -23,10 +23,15 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|   EU COMO... `PERSONA`    | QUERO/PRECISO ... `FUNCIONALIDADE`    | PARA ... `MOTIVO/VALOR`                                        |
+|---------------------------|---------------------------------------|----------------------------------------------------------------|
+|Marcela (usuário-cliente)  |Orientação profissional                |Conseguir lidar com as crises                                   |
+|Marcela (usuário-cliente)  |Orientações factuais sobre a doença    |Conscientizar acerca de seus perigos e sintomas                 | 
+|Tião (usuário-cliente)     |Precisa de um cronograma               |Conseguir se organizar acerca do monitoramento e dieta alimentar|
+|Ana (usuário-cliente)      |Localização do hospital mais próximo   |Não precisar de pesquisar um local em caso de emergência        |
+|Geralda (usuário-cliente)  |Informativo sobre sintomas de AVC      |Estar consciente de leves sinais que podem indicar um acidente  |
+|Glória (usuário-cliente)   |Informativo para casos emergenciais    |Saber qual medida tomar em caso de queimaduras                  |
+|Paulo (usuário-cliente)    |Informativo para casos emergenciais    |Saber qual medida tomar em caso de desmaio                      |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
