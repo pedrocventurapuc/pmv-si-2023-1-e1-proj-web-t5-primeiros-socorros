@@ -6,11 +6,14 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 
 # Personas #
-![Marcela](https://user-images.githubusercontent.com/105678089/226703256-6184b5e7-7274-480f-a89f-022f396ee173.png)
+![Marcela](![Marcela](https://user-images.githubusercontent.com/105678089/227228696-a45564e6-f110-4796-b544-ea99706934ed.png)
+
 ---
-![TIÃO](https://user-images.githubusercontent.com/105678089/226703283-13f18bbc-e9d4-4664-8829-3cb04e83f4bb.png)
+![TIÃO]![tião](https://user-images.githubusercontent.com/105678089/227228937-8c4fa9ea-e5ca-454c-9170-bffe0bc25935.png)
+
 ---
-![ana](https://user-images.githubusercontent.com/105678089/226934176-07b6a429-4cf8-4c67-9098-42a2308654c2.png)
+![ana](https://user-images.githubusercontent.com/105678089/227229018-5b8fa739-aaf4-49ae-acbb-7923246a67d6.png)
+
 
 Geralda Pereira, 55 anos, contadora, trabalhando em seu escritório sentiu uma forte dor de cabeça, 
 de início súbito. Além disso, sentiu fraqueza e dormência na face e braços afetando um dos lados do corpo.
