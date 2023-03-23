@@ -28,19 +28,10 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Marcela (usuário-cliente)  |Orientação profissional                |Conseguir lidar com as crises                                   |
 |Marcela (usuário-cliente)  |Orientações factuais sobre a doença    |Conscientizar acerca de seus perigos e sintomas                 | 
 |Tião (usuário-cliente)     |Precisa de um cronograma               |Conseguir se organizar acerca do monitoramento e dieta alimentar|
-|Ana (usuário-cliente)      |Localização do hospital mais próximo   |Não precisar de pesquisar um local em caso de emergência        |
+|Ana (usuário-cliente)      |Localização do hospital mais próximo   |Já ter mãos um local de emergências e seu status                |
 |Geralda (usuário-cliente)  |Informativo sobre sintomas de AVC      |Estar consciente de leves sinais que podem indicar um acidente  |
 |Glória (usuário-cliente)   |Informativo para casos emergenciais    |Saber qual medida tomar em caso de queimaduras                  |
 |Paulo (usuário-cliente)    |Informativo para casos emergenciais    |Saber qual medida tomar em caso de desmaio                      |
-
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
 
 ## Requisitos
 
