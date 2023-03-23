@@ -15,14 +15,21 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 Geralda Pereira, 55 anos, contadora, trabalhando em seu escritório sentiu uma forte dor de cabeça, 
 de início súbito. Além disso, sentiu fraqueza e dormência na face e braços afetando um dos lados do corpo.
-Preocupada com o estado de Geralda, sua estagiária no escritório procura alguma informação online que possa ajudar.
-
+Preocupada com o estado de Geralda, sua estagiária no escritório procura alguma informação online que possa ajudar. Encontrando um indicador chamado "Escala de Glasgow", verificando os parâmetros de acordo com os sintomas sentidos por Geralda, ligando imediatamente para emergência mais próxima. 
+Motivação: diagnóstico precoce para AVC para melhor atendimento e busca rápida de ajuda. Frustação: falta de informação e conhecimento para que pessoas ajudem a diagnosticar e buscar ajuda médica o quanto antes. 
 
 Glória Fernandes, 43 anos, cozinheira em um restaurante no centro de Belo Horizonte, está fazendo suas atividades rotineiras 
 antes do horário de abertura do estabelecimento. Como de costume, Glória prepara a panela com água e coloca sob a chama acesa do fogão.
 Por um descuido, Glória deixa a panela cair, causando uma grande queimadura em suas pernas e tronco. O gerente do restaurante não sabe como agir, pois 
 os "conhecimentos populares" dizem para passar pó de café ou até mesmo pasta de dente nas queimaduras. Assim, o gerente de Glória procura informações sobre 
 procedimento para queimadura online.
+Motivação: desmistificar as cresças populares sobre tratamento de queimaduras. Frustração: falta de informação e conhecimento podem agravar a situação da queimadura fazendo uso de substâncias indevidas sob a ferida. 
+
+
+Paulo Tadeu, 35 anos, motorista de aplicativo, estava indo buscar um passageiro em seu veículo. Paulo se assusta ao ver que um rapaz estava na rua deitado no chão desacordado. 
+Assim, o motorista estaciona o carro e tenta acordar o rapaz, porém sem sucesso. Paulo não sabe como agir nessa situação. Tenta verificar o pulso e respiração do rapaz. 
+Naquele momento um terceiro cidação se aproximou do rapaz desacordado e disse para Paulo que estudou sobre primeiros socorros, sendo assim, ele consegue aplicar as manobras de Ressuscitação Cardiopulmonar (RCP). 
+Motivação: ensinar leigos manobras de Ressuscitação Cardiopulmonar (RCP). Frustração: a morte ocorre em minutos, caso a vítima não receba atendimento adequado. 
 
 
 ## Histórias de Usuários
