@@ -6,13 +6,11 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 
 # Personas #
-![Marcela](![Marcela](https://user-images.githubusercontent.com/105678089/227228696-a45564e6-f110-4796-b544-ea99706934ed.png)
+![Marcela](https://user-images.githubusercontent.com/105678089/227229206-ac278df8-31ff-4b79-a1c8-832d43d139fd.png)
 
----
-![TIÃO]![tião](https://user-images.githubusercontent.com/105678089/227228937-8c4fa9ea-e5ca-454c-9170-bffe0bc25935.png)
+![tião](https://user-images.githubusercontent.com/105678089/227229237-4ac7e7b2-2179-42df-9b20-871e3263ba16.png)
 
----
-![ana](https://user-images.githubusercontent.com/105678089/227229018-5b8fa739-aaf4-49ae-acbb-7923246a67d6.png)
+![ana](https://user-images.githubusercontent.com/105678089/227229270-d5ba9715-2c05-432f-a9ae-7078cc3a63b4.png)
 
 
 Geralda Pereira, 55 anos, contadora, trabalhando em seu escritório sentiu uma forte dor de cabeça, 
