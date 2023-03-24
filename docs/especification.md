@@ -27,11 +27,16 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |---------------------------|---------------------------------------|----------------------------------------------------------------|
 |Marcela (usuário-cliente)  |Orientação profissional                |Conseguir lidar com as crises                                   |
 |Marcela (usuário-cliente)  |Orientações factuais sobre a doença    |Conscientizar acerca de seus perigos e sintomas                 | 
-|Tião (usuário-cliente)     |Precisa de um cronograma               |Conseguir se organizar acerca do monitoramento e dieta alimentar|
+|Tião (usuário-cliente)     |Precisa de um cronograma               |Organizar sua dieta alimentar e exercícios físicos              |
+|Tião (usuário-cliente)     |Monitoramebto de sua glicemia          |Evitar crises de hipoglicemia                                   |
 |Ana (usuário-cliente)      |Localização do hospital mais próximo   |Já ter mãos um local de emergências e seu status                |
+|Ana (usuário-cliente)      |Informativo para casos emergenciais    |Já ter mãos um local de emergências e seu status                |
 |Geralda (usuário-cliente)  |Informativo sobre sintomas de AVC      |Estar consciente de leves sinais que podem indicar um acidente  |
+|Geralda (usuário-cliente)  |Localização do hospital mais próximo   |Já ter mãos um local de emergências e seu status                |
 |Glória (usuário-cliente)   |Informativo para casos emergenciais    |Saber qual medida tomar em caso de queimaduras                  |
+|Glória (usuário-cliente)   |Orientações factuais sobre a doença    |Conscientizar acerca de seus perigos e sintomas                 |
 |Paulo (usuário-cliente)    |Informativo para casos emergenciais    |Saber qual medida tomar em caso de desmaio                      |
+|Paulo (usuário-cliente)    |Localização do hospital mais próximo   |Já ter mãos um local de emergências e seu status                |
 
 ## Requisitos
 
