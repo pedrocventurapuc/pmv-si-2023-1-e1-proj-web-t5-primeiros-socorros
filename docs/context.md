@@ -20,7 +20,7 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
 > - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
 > - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
-
+------------------------------------------------------------------------------------------------------------------------------------------------
 Varios problemas envolvendo primeiros socorros pode ocorrer em situações em que as pessoas não possuem conhecimento suficiente sobre como agir em emergências médicas, o que pode levar a ações inadequadas ou ineficazes, colocando a vida da pessoa em risco.
 
 Por exemplo, em um acidente de carro, se uma pessoa tenta mover uma vítima sem antes verificar se ela está consciente e respirando, pode agravar lesões ou até mesmo causar a morte. Ou se alguém tenta realizar uma manobra de desengasgo de forma incorreta, pode levar a uma obstrução das vias aéreas.
