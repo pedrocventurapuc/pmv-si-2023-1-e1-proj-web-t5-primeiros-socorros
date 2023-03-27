@@ -6,9 +6,9 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 
 # Personas #
-![Marcela](https://user-images.githubusercontent.com/105678089/227229206-ac278df8-31ff-4b79-a1c8-832d43d139fd.png)
+![Marcela](https://user-images.githubusercontent.com/105678089/227963189-98671a00-9992-4850-9c1a-a124252fdd2e.png)
 
-![tião](https://user-images.githubusercontent.com/105678089/227229237-4ac7e7b2-2179-42df-9b20-871e3263ba16.png)
+![tião](https://user-images.githubusercontent.com/105678089/227963241-4fe7a81d-854e-4f86-9a06-bc7d118848f7.png)
 
 ![ana](https://user-images.githubusercontent.com/105678089/227229270-d5ba9715-2c05-432f-a9ae-7078cc3a63b4.png)
 
