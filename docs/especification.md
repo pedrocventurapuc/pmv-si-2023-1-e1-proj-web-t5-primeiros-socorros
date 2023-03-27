@@ -35,7 +35,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Geralda (usuário-cliente)  |Guia prático sobre como agir em casos emergenciais    |Já ter mãos um local de emergências e seu status                |
 |Glória (usuário-cliente)   |Guia prático sobre como agir em casos emergenciais    |Saber qual medida tomar em caso de queimaduras                  |
 |Glória (usuário-cliente)   |Orientações factuais sobre tratamento de queimaduras  |Conscientizar acerca de seus perigos e sintomas                 |
-|Paulo (usuário-cliente)    |Guia prático sobre como agir em casos emergenciais    |Saber qual medida tomar em caso de desmaio                      |
+|Paulo (usuário-cliente)    |Guia prático sobre manobras de RCP                    |Saber qual medida tomar em caso de desmaio                      |
 |Paulo (usuário-cliente)    |Localização do hospital mais próximo                  |Já ter mãos um local de emergências e seu status                |
 
 ## Requisitos
