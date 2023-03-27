@@ -1,7 +1,9 @@
 # Introdução
 
 O centro de primeiros socorro é um serviço de saúde que oferece atendimento imediato para pacientes com condições médicas urgentes ou emergentes. Esses serviços geralmente estão disponíveis em hospitais, clínicas ou postos de saúde e são destinados a atender pacientes que necessitam de cuidados médicos imediatos, mas não têm uma emergência que exija atendimento em uma sala de emergência.
+
 Se você ou alguém próximo está passando por uma situação de emergência, o procedimento a ser seguido pode variar dependendo da gravidade da situação. Em caso de dor no peito, falta de ar, desmaios, dores abdominais intensas, sangramento intenso, fraturas ósseas, queimaduras graves, intoxicação, reações alérgicas graves, acidente vascular cerebral (AVC) ou ataque cardíaco, é importante chamar imediatamente uma ambulância ou procurar a unidade de emergência hospitalar mais próxima.
+
 Se a situação não for uma emergência médica grave, mas ainda assim exigir atenção imediata, você pode entrar em contato com um pronto-atendimento médico ou clínica próxima para obter ajuda. Ligue para o número de telefone da unidade de pronto-atendimento ou clínica para obter orientações sobre o que fazer a seguir. Em todos os casos, é importante manter a calma e seguir as instruções dos profissionais de saúde para garantir que o paciente receba o atendimento necessário o mais rápido possível. Além disso, é sempre recomendável ter um plano de ação em caso de emergência médica e manter uma lista de números de telefone importantes, incluindo o número da emergência médica local, para facilitar a comunicação e agilizar o atendimento em caso de necessidade.
 
 
