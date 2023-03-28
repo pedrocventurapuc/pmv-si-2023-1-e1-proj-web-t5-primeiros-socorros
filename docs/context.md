@@ -29,7 +29,7 @@ Apresente também alguns (pelo menos 2) objetivos específicos dependendo de ond
 
 ## Justificativa
 
-Escolhemos desenvolver esse sistema de primeiros socorros, para ajudar as pessoas mais leigas em caso de uma emergência médica, onde muitos não tem condições de ir para um hospital durante a emergência ou apenas encontrar o pronto atendimento mais próximo ou apenas fazer o registro de medicamentos para ter um melhor controle do que o usuário já tomou no dia com controle de glicerina e pressão.
+Escolhemos desenvolver esse sistema de primeiros socorros, para ajudar as pessoas mais leigas em caso de uma emergência médica, onde muitos não tem condições de ir para um hospital durante a emergência, encontrar o pronto atendimento mais próximo e apenas fazer um registro de medicamentos para ter um melhor controle do que o usuário já tomou no dia com controle de glicerina e pressão.
 
 
 ## Público-Alvo
