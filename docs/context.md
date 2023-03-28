@@ -29,7 +29,10 @@ Apresente também alguns (pelo menos 2) objetivos específicos dependendo de ond
 
 ## Justificativa
 
-Escolhemos desenvolver esse sistema de primeiros socorros, para ajudar as pessoas mais leigas em caso de uma emergência médica, onde muitos não tem condições de ir para um hospital durante a emergência, encontrar o pronto atendimento mais próximo e apenas fazer um registro de medicamentos para ter um melhor controle do que o usuário já tomou no dia com controle de glicerina e pressão.
+De acodo com o SIBEM (Sistema Integrado Brasileiro de Emergencia Médica), os primeiros socorros aumentam sobevivencia em até 50% em casos de paradas cardiorespiratórias, por isso escolhemos desenvolver esse sistema, para ajudar as pessoas mais leigas em caso de uma emergência médica, onde muitos não tem condições de ir para um hospital durante a emergência, encontrar o pronto atendimento mais próximo e apenas fazer um registro de medicamentos para ter um melhor controle do que o usuário já tomou no dia com controle de glicerina e pressão.
+
+**Fonte**
+https://www.sibem.com.br/primeiros-socorros-aumentam-sobrevivencia-em-ate-50-em-casos-de-paradas-cardiorrespiratorias/#:~:text=No%20Brasil%2C%20pesquisas%20revelam%20que,mil%20mortes%20súbitas%2C%20por%20ano.
 
 
 ## Público-Alvo
