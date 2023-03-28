@@ -22,6 +22,9 @@ Apresente também alguns (pelo menos 2) objetivos específicos dependendo de ond
  
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+> ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+> ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+> O objetivo do nosso sistema, é prestar uma maneira fácil e rápida de cuidados adequados em situações de emergência médica, a fim de preservar a vida da pessoa afetada e evitar complicações.
 
 ## Justificativa
 
