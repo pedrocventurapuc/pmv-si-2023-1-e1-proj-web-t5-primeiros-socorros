@@ -1,6 +1,5 @@
 # Especificações do Projeto
 
----
 
 # Personas #
 ![Marcela](https://user-images.githubusercontent.com/105678089/227963189-98671a00-9992-4850-9c1a-a124252fdd2e.png)
