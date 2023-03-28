@@ -55,6 +55,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |RF-010| A aplicação deverá disponibilizar números telefônicos destinados a casos de emergência | ALTA | |
 |RF-011| A aplicaçãdo deverá encaminhar chamadas a centros de aconselhamentos, a fim de evitar tentativas de suícidio | ALTA | |
 |RF-012| A aplicação deverá permirtir que o usuário cadastre diaramente o registro dos níveis de glicose | ALTA | |
+|RF-013| A aplicação deverá instruir o usuário a realizar curativos paliativos | ALTA | |
 
 ### Requisitos não Funcionais
 
