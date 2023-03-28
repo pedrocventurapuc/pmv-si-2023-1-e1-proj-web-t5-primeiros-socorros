@@ -54,6 +54,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |RF-009| A aplicação deve fornecer informações detalhadas e relevantes sobre como prevenir acidentes domésticos | ALTA | |
 |RF-010| A aplicação deverá disponibilizar números telefônicos destinados a casos de emergência | ALTA | |
 |RF-011| A aplicaçãdo deverá encaminhar chamadas a centros de aconselhamentos, a fim de evitar tentativas de suícidio | ALTA | |
+|RF-012| A aplicação deverá permirtir que o usuário cdastre diaramente o registro dos níveis de glicose | ALTA | |
 
 ### Requisitos não Funcionais
 
