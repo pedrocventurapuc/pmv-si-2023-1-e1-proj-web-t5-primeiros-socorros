@@ -24,7 +24,8 @@ Apresente também alguns (pelo menos 2) objetivos específicos dependendo de ond
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 > ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 > ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-> O objetivo do nosso sistema, é prestar uma maneira fácil e rápida de cuidados adequados em situações de emergência médica, a fim de preservar a vida da pessoa afetada e evitar complicações.
+> O objetivo do nosso sistema, é prestar uma maneira fácil e rápida de cuidados adequados em situações de emergência médica, a fim de preservar a vida da pessoa afetada e evitar complicações, como por exemplo a perca de sangue após um acidente e outras lesões que podem ser evitadas.
+>
 
 ## Justificativa
 
