@@ -38,9 +38,6 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Paulo (usuário-cliente)    |Guia prático sobre manobras de RCP                    |Saber qual medida tomar em caso de desmaio                      |
 |Paulo (usuário-cliente)    |Localização do hospital mais próximo                  |Já ter mãos um local de emergências e seu status                |
 
-## Requisitos
-
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
 
 ### Requisitos Funcionais
 
@@ -48,7 +45,14 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |------|-----------------------------------------|----| ----|
 |RF-001| Permitir que o usuário cadastre tarefas | ALTA |  |
 |RF-002| Emitir um relatório de tarefas no mês   | MÉDIA | |
-
+|RF-003| A aplicação deverá visualizar o site em dispositivos móveis| ALTA | |
+|RF-004| A aplicação deverá utilizar uma api que conecte o usuário ao google maps| ALTA | |
+|RF-005| A aplicação deverá permitir que o usuário acesse o guia de emergência sem ter que fazer login | MÉDIA | |
+|RF-006| Para situaçoes de registro a aplicação deverá solicitar o login | MÉDIA | |
+|RF-007| A aplicação deve permitir a busca por prestadores de serviços de forma rápida, eficaz e precisa | ALTA | |
+|RF-008| A aplicação deve fornecer um guia de primeiros socorros | ALTA | |
+|RF-009| A aplicação deve fornecer informações detalhadas e relevantes sobre como prevenir acidentes domésticos | ALTA | |
+|RF-010| A aplicação deverá disponibilizar números telefônicos destinados a casos de emergência | ALTA | |
 
 ### Requisitos não Funcionais
 
@@ -80,6 +84,9 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre |
 |02| Não pode ser desenvolvido um módulo de backend        |
+|03| A aplicação não substitui atendimento médico          |
+|04| Não é possivel agendar consulta médica diretamente no site |
+
 
 
 Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
