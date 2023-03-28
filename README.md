@@ -19,7 +19,6 @@ Além disso, a aplicação pode exibir também, a localização de hospitais e P
 * Lorena Soares Souza
 * Lucas Henrique Oliveira Prado 
 * Pedro Cordeiro Ventura
-* Layssa Aragão Braz 
 
 ## Orientador
 
