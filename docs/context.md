@@ -40,3 +40,6 @@ Adicione informações sobre o público-alvo por meio de uma descrição textual
 > - Pessoas que querem se informar acerca de possíveis sintomas de uma doença ou métodos de pronto-socorro, entre 18 a 70 anos, que têm facilidade com a tecnologia, que auxiliar alguém, em caso de alguma emergência.
 > - Pessoas, de 18 a 55 anos, que estão viajando ou morando em uma cidade no interior,  que têm facilidade com a tecnologia; Buscam um hospital mais próximo de sua localização e que seja mais adequado à sua específica emergência.
  
+## Referências
+
+ATHENA PRESS. Congresso Cardiol. Disponível em: <http://congresso.cardiol.br/sbc-df/includes/noticias/morte-subita.asp>, Acesso em: 28 Mar. 2023.
