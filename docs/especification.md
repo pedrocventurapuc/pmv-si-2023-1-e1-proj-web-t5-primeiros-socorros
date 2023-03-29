@@ -6,8 +6,6 @@
 
 ![tião](https://user-images.githubusercontent.com/105678089/227963241-4fe7a81d-854e-4f86-9a06-bc7d118848f7.png)
 
-![ana](https://user-images.githubusercontent.com/105678089/227229270-d5ba9715-2c05-432f-a9ae-7078cc3a63b4.png)
-
 ![geralda](https://user-images.githubusercontent.com/105678089/227267557-16c94be2-216d-49b6-bbdb-ec922013b6a9.png)
 
 ![paulo](https://user-images.githubusercontent.com/105678089/227267623-ace1a6fe-9664-43a5-9484-af8cf23b1670.png)
@@ -23,8 +21,6 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Marcela (usuário-cliente)  |Orientações factuais sobre a doença                   |Conscientizar acerca de seus perigos e sintomas                 | 
 |Tião (usuário-cliente)     |Precisa de um cronograma                              |Organizar sua dieta alimentar e exercícios físicos              |
 |Tião (usuário-cliente)     |Forma de registrar e gerenciar o histórico da glicemia|Evitar crises de hipoglicemia                                   |
-|Ana (usuário-cliente)      |Localização do hospital mais próximo                  |Já ter mãos um local de emergências e seu status                |
-|Ana (usuário-cliente)      |Guia prático sobre como agir em casos emergenciais    |Já ter mãos um local de emergências e seu status                |
 |Geralda (usuário-cliente)  |Informativo sobre sintomas de AVC                     |Estar consciente de leves sinais que podem indicar um acidente  |
 |Geralda (usuário-cliente)  |Guia prático sobre como agir em casos emergenciais    |Já ter mãos um local de emergências e seu status                |
 |Paulo (usuário-cliente)    |Guia prático sobre sintomas de infarto                |Saber qual medida tomar em caso de infarto                      |
