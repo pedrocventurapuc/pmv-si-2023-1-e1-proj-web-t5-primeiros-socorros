@@ -16,15 +16,7 @@ Por exemplo, em um acidente de carro, se uma pessoa tenta mover uma vítima sem 
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
-
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
-> ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-> ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-> O objetivo do nosso sistema, é prestar uma maneira fácil e rápida de cuidados adequados em situações de emergência médica, a fim de preservar a vida da pessoa afetada e evitar complicações, como por exemplo a perca de sangue após um acidente e outras lesões que podem ser evitadas.
+> O objetivo geral do nosso sistema, é prestar uma maneira fácil e rápida de cuidados adequados em situações de emergência médica, a fim de preservar a vida da pessoa afetada e evitar complicações. Como objetivos específicos queremos fornecer as informações adequadas para determinados acidentes na forma de um guia, indicando o hospital mais próximo se nao for possivel realizar os primeiros socorros e uma forma de registro diario de medicamentos, tanto manual, para que o usuario registre como queira, tanto automatico, com acompanhamento alimentar e objetivos.
 >
 
 ## Justificativa
