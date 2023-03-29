@@ -16,8 +16,8 @@ Por exemplo, em um acidente de carro, se uma pessoa tenta mover uma vítima sem 
 
 ## Objetivos
 
-> O objetivo geral do nosso sistema, é prestar uma maneira fácil e rápida de cuidados adequados em situações de emergência médica, a fim de preservar a vida da pessoa afetada e evitar complicações. Como objetivos específicos queremos fornecer as informações adequadas para determinados acidentes na forma de um guia, indicando o hospital mais próximo se nao for possivel realizar os primeiros socorros e uma forma de registro diario de medicamentos, tanto manual, para que o usuario registre como queira, tanto automatico, com acompanhamento alimentar e objetivos.
->
+O objetivo geral do nosso sistema, é prestar uma maneira fácil e rápida de cuidados adequados em situações de emergência médica, a fim de preservar a vida da pessoa afetada e evitar complicações. Como objetivos específicos queremos fornecer as informações adequadas para determinados acidentes na forma de um guia, indicando o hospital mais próximo se nao for possivel realizar os primeiros socorros e uma forma de registro diario de medicamentos, tanto manual, para que o usuario registre como queira, tanto automatico, com acompanhamento alimentar e objetivos.
+
 
 ## Justificativa
 
