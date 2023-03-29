@@ -33,8 +33,10 @@ hierárquicas, etc.
 
 Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
 
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+> - Pessoas ou familiares, de 30 a 55 anos, formação superior ou técnica, com renda mensal entre R$ 3 mil a R$ 8 mil, que têm facilidade com a tecnologia. Têm constante contato com algum parente enfêrmo ou que moram em regiões pouco infraestruturadas; Se sentem constantemente aflitos com uma possível emergência médica, porém, não podem fazer muita coisa a respeito, por serem leigos no assunto.
+> - Pessoas que sofrem de algum transtorno ou problema mental ou estão apenas sentindo algum sintoma do mesmo, entre 18 a 55 anos, que têm facilidade com a tecnologia, que buscam informações úteis e que possam lhes auxiliar nos momentos difíceis. 
+> - Pessoas em situações emergenciais médicas, entre 18 a 55 anos, que têm facilidade com a tecnologia, que buscam a localização do hospital mais próximo. 
+> - Pessoas que têm diabetes, entre 18 a 70 anos, que têm facilidade com a tecnologia, que precisam registrar o histórico de glicemia e funcionalidades adicionais que possam lhes auxiliar em sua dieta e organização dos remédios.
+> - Pessoas que querem se informar acerca de possíveis sintomas de uma doença ou métodos de pronto-socorro, entre 18 a 70 anos, que têm facilidade com a tecnologia, que auxiliar alguém, em caso de alguma emergência.
+> - Pessoas, de 18 a 55 anos, que estão viajando ou morando em uma cidade no interior,  que têm facilidade com a tecnologia; Buscam um hospital mais próximo de sua localização e que seja mais adequado à sua específica emergência.
+ 
