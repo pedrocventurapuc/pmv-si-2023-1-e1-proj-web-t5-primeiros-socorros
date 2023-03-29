@@ -39,8 +39,8 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |ID    | Descrição do Requisito  | Prioridade | Responsável |
 |------|-----------------------------------------|----| ----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA |  |
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA | |
+|RF-001| A aplicação deve permitir que o usuário cadastre tarefas | ALTA |  |
+|RF-002| A aplicação deve emitir um relatório de tarefas no mês   | MÉDIA | |
 |RF-003| A aplicação deverá visualizar o site em dispositivos móveis| ALTA | |
 |RF-004| A aplicação deverá utilizar uma api que conecte o usuário ao google maps| ALTA | |
 |RF-005| A aplicação deverá permitir que o usuário acesse o guia de emergência sem ter que fazer login | MÉDIA | |
