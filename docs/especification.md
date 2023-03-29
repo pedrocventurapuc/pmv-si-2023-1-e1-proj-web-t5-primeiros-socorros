@@ -10,8 +10,6 @@
 
 ![geralda](https://user-images.githubusercontent.com/105678089/227267557-16c94be2-216d-49b6-bbdb-ec922013b6a9.png)
 
-![gloria](https://user-images.githubusercontent.com/105678089/227267593-e325d153-b0bf-4c31-9758-50f1f2cb2a01.png)
-
 ![paulo](https://user-images.githubusercontent.com/105678089/227267623-ace1a6fe-9664-43a5-9484-af8cf23b1670.png)
 
 
