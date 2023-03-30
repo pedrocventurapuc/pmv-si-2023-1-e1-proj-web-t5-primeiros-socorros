@@ -16,7 +16,18 @@ Por exemplo, em um acidente de carro, se uma pessoa tenta mover uma vítima sem 
 
 ## Objetivos
 
-O objetivo geral do nosso sistema, é prestar uma maneira fácil e rápida de cuidados adequados em situações de emergência médica, a fim de preservar a vida da pessoa afetada e evitar complicações. Como objetivos específicos queremos fornecer as informações adequadas para determinados acidentes na forma de um guia, indicando o hospital mais próximo se não for possível realizar os primeiros socorros e uma forma de registro diário de medicamentos, tanto manual, para que o usuário registre como queira, tanto automático, com acompanhamento alimentar e objetivos.
+## Objetivos Gerais
+
+O objetivo geral do nosso sistema, é prestar uma maneira fácil e rápida de cuidados adequados em situações de emergência médica, a fim de preservar a vida da pessoa afetada e evitar complicações. 
+
+## Objetivos Específicos
+
+> - Fornecer infomações na forma de um guia para procedimentos de pronto-socorro, em caso de uma emergência médica ou algum acidente.
+> - Fornecer informações de localidades de postos de saúde ou hospitais mais próximos.
+> - Forma de registro e gerenciamento diário de medicamentos, com acompanhamento rotineiro de exercícios e de alimentação.
+> - Fornecer números de emergência de órgãos responsáveis com suas respectivas localidades (Samu, Polícia, Bombeiros, etc.).
+> - Fornecer lista de contatos de emergência.
+> - Fornecer informações na forma de um guia para conscientização acerca das doenças e seus respectivos sintomas e perigos.
 
 ## Justificativa
 
@@ -26,17 +37,7 @@ Uma estimativa feita pela Sociedade Brasileira de Cardiologia (SBC) mostra que, 
 
 Diante desse viés, o tema escolhido fora feito, com o objetivo de se desenvolver um sistema com a finalidade de auxiliar as pessoas mais leigas em caso de uma emergência médica, onde muitos não teriam as condições de ir para um hospital durante uma possível emergência, ou encontrar um pronto-socorro mais próximo ou apenas fazer um registro de medicamentos para se ter um melhor controle de seu histórico de pressão e glicerina.
 
-**Fonte**
-De acodo com o SIBEM (Sistema Integrado Brasileiro de Emergencia Médica), os primeiros socorros aumentam sobevivencia em até 50% em casos de paradas cardiorespiratórias, 
-https://www.sibem.com.br/primeiros-socorros-aumentam-sobrevivencia-em-ate-50-em-casos-de-paradas-cardiorrespiratorias/#:~:text=No%20Brasil%2C%20pesquisas%20revelam%20que,mil%20mortes%20súbitas%2C%20por%20ano.
-
-
 ## Público-Alvo
-
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
-
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
 
 > - Pessoas ou familiares, de 30 a 55 anos, formação superior ou técnica, com renda mensal entre R$ 3 mil a R$ 8 mil, que têm facilidade com a tecnologia. Têm constante contato com algum parente enfêrmo ou que moram em regiões pouco infraestruturadas; Se sentem constantemente aflitos com uma possível emergência médica, porém, não podem fazer muita coisa a respeito, por serem leigos no assunto.
 > - Pessoas que sofrem de algum transtorno ou problema mental ou estão apenas sentindo algum sintoma do mesmo, entre 18 a 55 anos, que têm facilidade com a tecnologia, que buscam informações úteis e que possam lhes auxiliar nos momentos difíceis. 
@@ -48,4 +49,5 @@ Adicione informações sobre o público-alvo por meio de uma descrição textual
 ## Referências
 
 [1] ATHENA PRESS. Congresso Cardiol. Disponível em: <http://congresso.cardiol.br/sbc-df/includes/noticias/morte-subita.asp>, Acesso em: 28 Mar. 2023.
+
 [2] CHAVES B. J. P. et al. EDUCANDO PARA A SAÚDE. Infarto agudo do miocárdio. Aracaju: Fundação Estadual de Saúde- FUNESA, 2015.
