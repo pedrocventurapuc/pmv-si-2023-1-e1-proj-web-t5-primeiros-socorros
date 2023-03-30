@@ -36,7 +36,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |RF-003| A aplicação deverá visualizar o site em dispositivos móveis| ALTA | |
 |RF-004| A aplicação deverá utilizar uma api que conecte o usuário ao google maps| ALTA | |
 |RF-005| A aplicação deverá permitir que o usuário acesse o guia de emergência sem ter que fazer login | MÉDIA | |
-|RF-006| Para situaçoes de registro a aplicação deverá solicitar o login | MÉDIA | |
+|RF-006| A aplicação deverá solicitar o login para efetuar o registro do usuário | MÉDIA | |
 |RF-007| A aplicação deve permitir a busca por prestadores de serviços de forma rápida, eficaz e precisa | ALTA | |
 |RF-008| A aplicação deve fornecer um guia de primeiros socorros | ALTA | |
 |RF-009| A aplicação deve fornecer informações detalhadas e relevantes sobre como prevenir acidentes domésticos | ALTA | |
