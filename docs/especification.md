@@ -22,7 +22,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Tião (usuário-cliente)     |Precisa de um cronograma                              |Organizar sua dieta alimentar e exercícios físicos              |
 |Tião (usuário-cliente)     |Forma de registrar e gerenciar o histórico da glicemia|Evitar crises de hipoglicemia                                   |
 |Geralda (usuário-cliente)  |Informativo sobre sintomas de AVC                     |Estar consciente de leves sinais que podem indicar um acidente  |
-|Geralda (usuário-cliente)  |Guia prático sobre como agir em casos emergenciais    |Já ter mãos um local de emergências e seu status                |
+|Geralda (usuário-cliente)  |Guia prático sobre como agir em casos emergenciais    |Saber o que faze em caso de uma emergência                      |
 |Paulo (usuário-cliente)    |Guia prático sobre sintomas de infarto                |Saber qual medida tomar em caso de infarto                      |
 |Paulo (usuário-cliente)    |Localização do hospital mais próximo                  |Já ter mãos um local de emergências e seu status                |
 
