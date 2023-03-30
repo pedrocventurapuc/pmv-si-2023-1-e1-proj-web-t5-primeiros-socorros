@@ -31,11 +31,11 @@ O objetivo geral do nosso sistema, é prestar uma maneira fácil e rápida de cu
 
 ## Justificativa
 
-A todo momento de nossas vidas, estamos à mercê qualquer fatalidade cruzando nossos caminhos. Desde a um acidente promovido por um moorista bêbado que ultrassou o sinal de trânsito, a uma pessoa parada na rua, que começou a sentir os efeitos de um infarto do miocárdio.
+A todo momento de nossas vidas, estamos à mercê qualquer fatalidade cruzando nossos caminhos. Desde a um acidente promovido por um motorista bêbado que ultrapassou o sinal de trânsito, a uma pessoa parada na rua, que começou a sentir os efeitos de um infarto do miocárdio.
 
 Uma estimativa feita pela Sociedade Brasileira de Cardiologia (SBC) mostra que, anualmente, cerca de 35 mil mortes por infarto seriam evitadas se os pacientes tivessem recebido os primeiros socorros. Além disso, durante o XV Congresso de Cardiologia de Brasília, em 2008, o tema Morte Súbita, um dos mais áridos de todo o evento, foi apresentado pelo cardiologista Márcio Sturmer. “Esse é um problema de saúde pública em qualquer lugar do mundo. A boa notícia é que 40% das mortes podem ser evitadas”.
 
-Diante desse viés, o tema escolhido fora feito, com o objetivo de se desenvolver um sistema com a finalidade de auxiliar as pessoas mais leigas em caso de uma emergência médica, onde muitos não teriam as condições de ir para um hospital durante uma possível emergência, ou encontrar um pronto-socorro mais próximo ou apenas fazer um registro de medicamentos para se ter um melhor controle de seu histórico de pressão e glicerina.
+Diante desse viés, o tema escolhido fora feito com o objetivo de se desenvolver um sistema com a finalidade de auxiliar as pessoas mais leigas em caso de uma emergência médica, onde muitos não teriam as condições de ir para um hospital durante uma possível emergência, ou encontrar um pronto-socorro mais próximo ou apenas fazer um registro de medicamentos para se ter um melhor controle de seu histórico de pressão e glicerina.
 
 ## Público-Alvo
 
