@@ -20,9 +20,14 @@ O objetivo geral do nosso sistema, é prestar uma maneira fácil e rápida de cu
 
 ## Justificativa
 
-De acodo com o SIBEM (Sistema Integrado Brasileiro de Emergencia Médica), os primeiros socorros aumentam sobevivencia em até 50% em casos de paradas cardiorespiratórias, por isso escolhemos desenvolver esse sistema, para ajudar as pessoas mais leigas em caso de uma emergência médica, onde muitos não tem condições de ir para um hospital durante a emergência, encontrar o pronto atendimento mais próximo e apenas fazer um registro de medicamentos para ter um melhor controle do que o usuário já tomou no dia com controle de glicerina e pressão.
+A todo momento de nossas vidas, estamos à mercê qualquer fatalidade cruzando nossos caminhos. Desde a um acidente promovido por um moorista bêbado que ultrassou o sinal de trânsito, a uma pessoa parada na rua, que começou a sentir os efeitos de um infarto do miocárdio.
+
+Uma estimativa feita pela Sociedade Brasileira de Cardiologia (SBC) mostra que, anualmente, cerca de 35 mil mortes por infarto seriam evitadas se os pacientes tivessem recebido os primeiros socorros. Além disso, durante o XV Congresso de Cardiologia de Brasília, em 2008, o tema Morte Súbita, um dos mais áridos de todo o evento, foi apresentado pelo cardiologista Márcio Sturmer. “Esse é um problema de saúde pública em qualquer lugar do mundo. A boa notícia é que 40% das mortes podem ser evitadas”.
+
+Diante desse viés, o tema escolhido fora feito, com o objetivo de se desenvolver um sistema com a finalidade de auxiliar as pessoas mais leigas em caso de uma emergência médica, onde muitos não teriam as condições de ir para um hospital durante uma possível emergência, ou encontrar um pronto-socorro mais próximo ou apenas fazer um registro de medicamentos para se ter um melhor controle de seu histórico de pressão e glicerina.
 
 **Fonte**
+De acodo com o SIBEM (Sistema Integrado Brasileiro de Emergencia Médica), os primeiros socorros aumentam sobevivencia em até 50% em casos de paradas cardiorespiratórias, 
 https://www.sibem.com.br/primeiros-socorros-aumentam-sobrevivencia-em-ate-50-em-casos-de-paradas-cardiorrespiratorias/#:~:text=No%20Brasil%2C%20pesquisas%20revelam%20que,mil%20mortes%20súbitas%2C%20por%20ano.
 
 
@@ -42,4 +47,5 @@ Adicione informações sobre o público-alvo por meio de uma descrição textual
  
 ## Referências
 
-ATHENA PRESS. Congresso Cardiol. Disponível em: <http://congresso.cardiol.br/sbc-df/includes/noticias/morte-subita.asp>, Acesso em: 28 Mar. 2023.
+[1] ATHENA PRESS. Congresso Cardiol. Disponível em: <http://congresso.cardiol.br/sbc-df/includes/noticias/morte-subita.asp>, Acesso em: 28 Mar. 2023.
+[2] CHAVES B. J. P. et al. EDUCANDO PARA A SAÚDE. Infarto agudo do miocárdio. Aracaju: Fundação Estadual de Saúde- FUNESA, 2015.
