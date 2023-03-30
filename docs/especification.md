@@ -10,6 +10,7 @@
 
 ![paulo](https://user-images.githubusercontent.com/105678089/227267623-ace1a6fe-9664-43a5-9484-af8cf23b1670.png)
 
+Paulo Tadeu mora com sua avó que é cardiopata. Paulo sai pra trabalhar e fica preocupado com o bem-estar de sua avó. Durante o trabalho ele pensa em formas que possa aprender mais sobre a condição de saúde de sua avó, identificando um possível infarto, caso ela precise de atendimento rápido até a chegada do SAMU ou bombeiros. 
 
 ## Histórias de Usuários
 
