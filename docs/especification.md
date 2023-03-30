@@ -51,6 +51,10 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |-------|-------------------------|----|
 |RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
 |RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-003| UI bem desenvolvida para fácil entendimento do usuário |  ALTA |
+|RNF-004| O sistema deve estar disponivel o máximo de tempo possível |  ALTA |
+|RNF-005| O sistema deve compartilhar dados do usuário apenas em emergências |  ALTA |
+
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
