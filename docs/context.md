@@ -27,7 +27,7 @@ O objetivo geral do nosso sistema, é prestar uma maneira fácil e rápida de cu
 
 ## Justificativa
 
-A todo momento de nossas vidas, estamos à mercê qualquer fatalidade cruzando nossos caminhos. Desde a um acidente promovido por um motorista bêbado que ultrapassou o sinal de trânsito, a uma pessoa parada na rua, que começou a sentir os efeitos de um infarto do miocárdio.
+Nos dias atuais, o homem está cada vez mais estressado, se alimentando mal e não se exercitando na maneira que deveria. Com isso, a população se torna cada vez mais obesa e sedentária acarretando em doenças crônicas e maus súbtos, como, por exemplo, infarto, acidente vascular cerebral (AVC), diabetes, entre muitos outros. Além desses fatos externos, estamos à mercê de fatalidades em nosso dia a dia, como um acidente promovido por um motorista bêbado que ultrapassou o sinal vermelho de trânsito.
 
 Uma estimativa feita pela Sociedade Brasileira de Cardiologia (SBC) mostra que, anualmente, cerca de 35 mil mortes por infarto seriam evitadas se os pacientes tivessem recebido os primeiros socorros. Além disso, durante o XV Congresso de Cardiologia de Brasília, em 2008, o tema Morte Súbita, um dos mais áridos de todo o evento, foi apresentado pelo cardiologista Márcio Sturmer. “Esse é um problema de saúde pública em qualquer lugar do mundo. A boa notícia é que 40% das mortes podem ser evitadas”.
 De acordo com a Organização Mundial da Saúde (OMS), a cada ano, cerca de 15 milhões de pessoas sofrem um AVC em todo o mundo e cerca de 5 milhões morrem em decorrência disso e nesses casos algumas pessoas ao redor pordem não saber oque fazer para ajudar, além de levar para um hospital.
