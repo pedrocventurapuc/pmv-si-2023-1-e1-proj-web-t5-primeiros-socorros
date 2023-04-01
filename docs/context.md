@@ -39,6 +39,10 @@ A relação entre primeiros socorros e diabetes é muito importante, uma vez que
 
 Diante desse viés, o tema escolhido fora feito com o objetivo de se desenvolver um sistema com a finalidade de auxiliar as pessoas mais leigas em caso de uma emergência médica, onde muitos não teriam as condições de ir para um hospital durante uma possível emergência, ou encontrar um pronto-socorro mais próximo ou apenas fazer um registro de medicamentos para se ter um melhor controle de seu histórico de pressão e glicerina.
 
+[1] Ultra-processed food consumption and type 2 diabetes incidence: A
+prospective cohort study. Clinical Nutrition, [S. l.], v. 40, n. 5, p. 3608–3614, 2021.
+Disponível em: https://doi.org/10.1016/j.clnu.2020.12.018
+
 ## Público-Alvo
 
 > - Pessoas ou familiares, de 30 a 55 anos, formação superior ou técnica, com renda mensal entre R$ 3 mil a R$ 8 mil, que têm facilidade com a tecnologia. Têm constante contato com algum parente enfêrmo ou que moram em regiões pouco infraestruturadas; Se sentem constantemente aflitos com uma possível emergência médica, porém, não podem fazer muita coisa a respeito, por serem leigos no assunto.
