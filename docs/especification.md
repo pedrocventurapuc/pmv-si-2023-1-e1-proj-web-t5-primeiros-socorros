@@ -51,7 +51,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |RF-004| A aplicação deve utilizar uma API que conecte o usuário ao google maps| ALTA | |
 |RF-005| A aplicação deve solicitar o cadastro para efetuar o registro do usuário cadastrado ou usuário visitante | ALTA | |
 |RF-006| A aplicação deve utilizar uma API que permita que o usuário cadastrado realize o login para que tenha acesso diaramente ao registro dos níveis de glicose | ALTA | |
-|RF-007| A aplicação deve produzir um relatório com as informações de glicemia inseridas pelo usuário cadastrado | ALTA | |
+|RF-007| A aplicação deve produzir um relatório com as informações de glicemia inseridas pelo usuário cadastrado| ALTA | |
 |RF-008| A aplicação deve utilizar uma API que permita que o usuário cadastrado tenha acesso a funcionalidades específicas do site | ALTA | |
 |RF-009| A aplicação deve utilizar uma API que permita a busca de conteúdo atraves do campo de pesquisa | ALTA | |
 |RF-010| A aplicação deve utilzar uma API de acessibilidade que leia o conteúdo da página para pessoas cegas e que não saibam ler | ALTA | |
