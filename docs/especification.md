@@ -33,13 +33,12 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |RF-001| A aplicação deve disponibilizar um informativo sobre sintomas de infarto e AVC. | ALTA | |
 |RF-002| A aplicação deve disponibilizar guia prático sobre como agir em casos de emergências. | ALTA | |
 |RF-003| A aplicação deve disponibilizar o local de onde as informações foram retiradas. | ALTA | |
-|RF-004| A aplicação deve disponibilizar um mapa mostrando os hospitais mais próximos. | ALTA | |
+|RF-004| A aplicação deve disponibilizar um mapa mostrando os hospitais e clínicas mais próximos. | ALTA | |
 |RF-005| A aplicação deve permitir que o usuário o cadastrado tenha acesso a funcionalidades específicas do site. | ALTA | |
-|RF-006| A aplicação deve permitir a busca por prestadores de serviços de forma rápida, eficaz e precisa. | ALTA | |
-|RF-007| A aplicação deve fornecer um guia de primeiros socorros. | ALTA | |
-|RF-008| A aplicação deve fornecer informações detalhadas e relevantes sobre como prevenir acidentes domésticos. | ALTA | |
-|RF-009| A aplicação deve disponibilizar números telefônicos destinados a casos de emergência. | ALTA | |
-|RF-010| A aplicação deve instruir o usuário a realizar curativos paliativos. | ALTA | |
+|RF-006| A aplicação deve fornecer um guia de primeiros socorros. | ALTA | |
+|RF-007| A aplicação deve fornecer informações detalhadas e relevantes sobre como prevenir acidentes domésticos. | ALTA | |
+|RF-008| A aplicação deve disponibilizar números telefônicos destinados a casos de emergência. | ALTA | |
+|RF-009| A aplicação deve instruir o usuário a realizar curativos paliativos. | ALTA | |
 
 ### Requisitos não Funcionais
 
