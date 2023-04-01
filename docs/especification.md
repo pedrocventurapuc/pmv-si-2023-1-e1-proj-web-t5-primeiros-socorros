@@ -86,6 +86,9 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |08| Cada usuário poderá cadastrar no máximo 1 conta por endereço de e-mail. |
 |09| O grupo que desenvolverá esta aplicação será composto por 5 pessoas. |
 |10| O projeto não contempla o objetivo de substitui o serviço de pronto-socorro. O foco seriam em medidas paleativas que antecederiam até a vinda da ambulância. |
+|11| Não pode prescrever medicamento. |
+|12| Não pode conter anúncio de empresas privadas. |
+|13| Não foi utilizado nenhum módulo de Back-End. |
 
 Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
 
