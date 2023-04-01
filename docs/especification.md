@@ -47,9 +47,9 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |-------|-------------------------|----|
 |RF-001| A aplicação deve visualizar o site em dispositivos móveis| ALTA | | 
 |RF-002| A aplicação deve permitir que o usuário visitante acesse o guia de emergência sem ter que fazer cadastro | ALTA | |
-|RF-003| A aplicaçãdo deve encaminhar chamadas a centros de aconselhamentos, a fim de evitar tentativas de suícidio | MÉDIA | |
+|RF-003| A aplicação deve encaminhar chamadas a centros de aconselhamentos, a fim de evitar tentativas de suícidio | MÉDIA | |
 |RF-004| A aplicação deve utilizar uma API que conecte o usuário ao google maps| ALTA | |
-|RF-005| A aplicação deve utilizar uma API que permita que o usuário cadastrado realize o login para ter acesso diaramente o registro dos níveis de glicose | ALTA | |
+|RF-005| A aplicação deve utilizar uma API que permita que o usuário cadastrado realize o login para que tenha acesso diaramente ao registro dos níveis de glicose | ALTA | |
 |RF-006| A aplicação deve utilizar uma API que permita que o usuário o cadastrado tenha acesso a funcionalidades específicas do site | ALTA | |
 |RF-007| A aplicação deve produzir um relatório de tarefas diárias | ALTA | |
 |RF-008| A aplicação deve utilizar uma api que permita a busca de conteúdo atraves do campo de pesquisa | ALTA | |
