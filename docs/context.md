@@ -1,12 +1,8 @@
 # Introdução
 
-O centro de primeiros socorro é um serviço de saúde que oferece atendimento imediato para pacientes com condições médicas urgentes ou emergentes. Esses serviços geralmente estão disponíveis em hospitais, clínicas ou postos de saúde e são destinados a atender pacientes que necessitam de cuidados médicos imediatos, mas não têm uma emergência que exija atendimento em uma sala de emergência.
+Esse projeto tem como objetivo fornecer informações relacionadas a pronto-atendimento médico e quais os procedimentos a serem seguidos diante de situações de emergência. O site pode fornecer informações sobre serviços médicos, locais de tratamento e tipos específicos de serviços oferecidos. Além disso, pode fornecer tutoriais visuais que mostrem como realizar procedimentos de primeiros socorros, instruções de autocuidado.
 
-Se você ou alguém próximo está passando por uma situação de emergência, o procedimento a ser seguido pode variar dependendo da gravidade da situação. Em caso de dor no peito, falta de ar, desmaios, dores abdominais intensas, sangramento intenso, fraturas ósseas, queimaduras graves, intoxicação, reações alérgicas graves, acidente vascular cerebral (AVC) ou ataque cardíaco, é importante chamar imediatamente uma ambulância ou procurar a unidade de emergência hospitalar mais próxima.
-
-Se a situação não for uma emergência médica grave, mas ainda assim exigir atenção imediata, você pode entrar em contato com um pronto-atendimento médico ou clínica próxima para obter ajuda. Ligue para o número de telefone da unidade de pronto-atendimento ou clínica para obter orientações sobre o que fazer a seguir. Em todos os casos, é importante manter a calma e seguir as instruções dos profissionais de saúde para garantir que o paciente receba o atendimento necessário o mais rápido possível. Além disso, é sempre recomendável ter um plano de ação em caso de emergência médica e manter uma lista de números de telefone importantes, incluindo o número da emergência médica local, para facilitar a comunicação e agilizar o atendimento em caso de necessidade.
-
-
+A interface interativa e intuitiva do site ajuda os usuários a encontrar informações para atendimentos médicos, locais de tratamento e serviços específicos além de poder ajudar os usuários a obter uma compreensão prática sobre como realizar procedimentos de primeiros socorros e instruções sobre o que fazer em caso de uma situação emergencial, bem como fornecer instruções úteis sobre como se cuidar em casa. O desenvolvimento deste site pode ajudar a melhorar a saúde e bem-estar dos usuários, além de salvar vidas em caso de uma premência.
 
 ## Problema
 
@@ -46,8 +42,3 @@ Diante desse viés, o tema escolhido fora feito com o objetivo de se desenvolver
 > - Pessoas que querem se informar acerca de possíveis sintomas de uma doença ou métodos de pronto-socorro, entre 18 a 70 anos, que têm facilidade com a tecnologia, que auxiliar alguém, em caso de alguma emergência.
 > - Pessoas, de 18 a 55 anos, que estão viajando ou morando em uma cidade no interior,  que têm facilidade com a tecnologia; Buscam um hospital mais próximo de sua localização e que seja mais adequado à sua específica emergência.
  
-## Referências
-
-[1] ATHENA PRESS. Congresso Cardiol. Disponível em: <http://congresso.cardiol.br/sbc-df/includes/noticias/morte-subita.asp>, Acesso em: 28 Mar. 2023.
-
-[2] CHAVES B. J. P. et al. EDUCANDO PARA A SAÚDE. Infarto agudo do miocárdio. Aracaju: Fundação Estadual de Saúde- FUNESA, 2015.
