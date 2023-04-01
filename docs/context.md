@@ -1,8 +1,8 @@
 # Introdução
 
-Este projeto tem como objetivo fornecer informações relacionadas a pronto-atendimento médico e quais os procedimentos a serem seguidos diante de situações de emergência. A aplicação poderá fornecer informações sobre serviços médicos, locais de tratamento e tipos específicos de serviços oferecidos. Além disso, pode fornecer tutoriais visuais que mostrem como realizar procedimentos de primeiros socorros, instruções de autocuidado.
+Este projeto tem como objetivo fornecer informações relacionadas a primeiros socorros e quais os procedimentos a serem seguidos diante de situações de emergência. A aplicação pode fornecer informações sobre serviços médicos, locais de atendimento de urgência e tipos específicos de serviços oferecidos. Além disso, pode fornecer tutoriais visuais que mostrem como realizar procedimentos de primeiros socorros, instruções de autocuidado.
 
-A interface interativa e intuitiva do site ajuda os usuários a encontrarem informações referente a atendimentos médicos, locais de tratamento e serviços específicos além de poder ajudar os usuários a obter uma compreensão prática sobre como realizar procedimentos de primeiros socorros e instruções sobre o que fazer em caso de uma situação emergencial, bem como fornecer instruções úteis sobre como se cuidar em casa. O desenvolvimento deste site pode ajudar a melhorar a saúde e bem-estar dos usuários, além de salvar vidas em caso de uma premência.
+A interface interativa e intuitiva do site ajuda os usuários a encontrarem informações referente a atendimentos médicos, locais de tratamento e serviços específicos. A aplicação tem a proposta de ajudar os usuários a obter uma compreensão prática sobre como realizar procedimentos de primeiros socorros e instruções sobre o que fazer em caso de uma situação emergencial, bem como fornecer instruções úteis sobre como se cuidar em casa evitando acidentes domésticos. O desenvolvimento dessa aplicação pode ajudar a melhorar a saúde e bem-estar dos usuários, além de salvar vidas em caso de uma emergência.
 
 ## Problema
 
