@@ -55,7 +55,8 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |RF-008| A aplicação deve utilizar uma API que permita que o usuário cadastrado tenha acesso a funcionalidades específicas do site | ALTA | |
 |RF-009| A aplicação deve utilizar uma API que permita a busca de conteúdo atraves do campo de pesquisa | ALTA | |
 |RF-010| A aplicação deve utilzar uma API de acessibilidade que leia o conteúdo da página para pessoas cegas e que não saibam ler | ALTA | |
-|RF-011| A aplicação deve permitir que o usuário visitante faça cadastro | ALTA | |
+|RF-011| A aplicação deve permitir que o usuário visitante realize seu cadastro | ALTA | |
+|RF-012| A aplicação deve permitir que o usuário faça login utilizando seu e-mail e senha | ALTA | |
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
