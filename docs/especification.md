@@ -30,26 +30,30 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |ID    | Descrição do Requisito  | Prioridade | Responsável |
 |------|-----------------------------------------|----| ----|
-|RF-001| A aplicação deve permitir que o usuário cadastre tarefas | ALTA |  |
-|RF-002| A aplicação deve emitir um relatório de tarefas no mês   | MÉDIA | |
-|RF-003| A aplicação deverá visualizar o site em dispositivos móveis| ALTA | |
-|RF-004| A aplicação deverá utilizar uma api que conecte o usuário ao google maps| ALTA | |
-|RF-005| A aplicação deverá permitir que o usuário acesse o guia de emergência sem ter que fazer login | MÉDIA | |
-|RF-006| A aplicação deverá solicitar o login para efetuar o registro do usuário | MÉDIA | |
-|RF-007| A aplicação deve permitir a busca por prestadores de serviços de forma rápida, eficaz e precisa | ALTA | |
-|RF-008| A aplicação deve fornecer um guia de primeiros socorros | ALTA | |
-|RF-009| A aplicação deve fornecer informações detalhadas e relevantes sobre como prevenir acidentes domésticos | ALTA | |
-|RF-010| A aplicação deverá disponibilizar números telefônicos destinados a casos de emergência | ALTA | |
-|RF-011| A aplicaçãdo deverá encaminhar chamadas a centros de aconselhamentos, a fim de evitar tentativas de suícidio | ALTA | |
-|RF-012| A aplicação deverá permirtir que o usuário cadastre diaramente o registro dos níveis de glicose | ALTA | |
-|RF-013| A aplicação deverá instruir o usuário a realizar curativos paliativos | ALTA | |
+|RF-001| A aplicação deve disponibilizar um informativo sobre sintomas de infarto e AVC | ALTA | |
+|RF-002| A aplicação deve disponibilizar guia prático sobre como agir em casos de emergências | ALTA | |
+|RF-003| A aplicação deve disponibilizar o local de onde as informações foram retiradas | ALTA | |
+|RF-004| A aplicação deve disponibilizar um mapa mostrando os hospitais mais próximos | ALTA | |
+|RF-005| A aplicação deve permitir que o usuário o cadastrado tenha acesso a funcionalidades específicas do site | ALTA | |
+|RF-006| A aplicação deve permitir a busca por prestadores de serviços de forma rápida, eficaz e precisa | ALTA | |
+|RF-007| A aplicação deve fornecer um guia de primeiros socorros | ALTA | |
+|RF-008| A aplicação deve fornecer informações detalhadas e relevantes sobre como prevenir acidentes domésticos | ALTA | |
+|RF-009| A aplicação deve disponibilizar números telefônicos destinados a casos de emergência | ALTA | |
+|RF-010| A aplicação deve instruir o usuário a realizar curativos paliativos | ALTA | |
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RF-001| A aplicação deve visualizar o site em dispositivos móveis| ALTA | | 
+|RF-002| A aplicação deve permitir que o usuário visitante acesse o guia de emergência sem ter que fazer cadastro | ALTA | |
+|RF-003| A aplicaçãdo deve encaminhar chamadas a centros de aconselhamentos, a fim de evitar tentativas de suícidio | MÉDIA | |
+|RF-004| A aplicação deve utilizar uma API que conecte o usuário ao google maps| ALTA | |
+|RF-005| A aplicação deve utilizar uma API que permita que o usuário cadastrado realize o login para ter acesso diaramente o registro dos níveis de glicose | ALTA | |
+|RF-006| A aplicação deve utilizar uma API que permita que o usuário o cadastrado tenha acesso a funcionalidades específicas do site | ALTA | |
+|RF-007| A aplicação deve produzir um relatório de tarefas diárias | ALTA | |
+|RF-008| A aplicação deve utilizar uma api que permita a busca de conteúdo atraves do campo de pesquisa | ALTA | |
+|RF-009| A aplicação deve solicitar o cadastro para efetuar o registro do usuário cadastrado ou usuário visitante | ALTA | |
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
@@ -72,10 +76,8 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
-|03| A aplicação não substitui atendimento médico          |
-|04| Não é possivel agendar consulta médica diretamente no site |
+|01| A aplicação não substitui atendimento médico          |
+|02| Não é possivel agendar consulta médica diretamente no site |
 
 
 
