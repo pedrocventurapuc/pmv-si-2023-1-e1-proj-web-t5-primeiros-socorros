@@ -16,44 +16,44 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |   EU COMO... `PERSONA`    | QUERO/PRECISO ... `FUNCIONALIDADE`                   | PARA ... `MOTIVO/VALOR`                                        |
 |---------------------------|------------------------------------------------------|----------------------------------------------------------------|
-|Marcela (usuário-cliente)  |Guia prático para casos de crise.                      |Conseguir lidar com as crises sozinha.                           |
-|Marcela (usuário-cliente)  |Orientações factuais sobre a doença.                   |Conscientizar acerca de seus perigos e sintomas.                 | 
-|Tião (usuário-cliente)     |Precisa de um cronograma.                              |Organizar sua dieta alimentar e exercícios físicos.              |
-|Tião (usuário-cliente)     |Forma de registrar e gerenciar o histórico da glicemia.|Evitar crises de hipoglicemia.                                   |
-|Geralda (usuário-cliente)  |Informativo sobre sintomas de AVC.                     |Estar consciente de leves sinais que podem indicar um acidente.  |
-|Geralda (usuário-cliente)  |Guia prático sobre como agir em casos emergenciais.    |Saber o que faze em caso de uma emergência.                      |
-|Paulo (usuário-cliente)    |Guia prático sobre sintomas de infarto.                |Saber qual medida tomar em caso de infarto.                      |
-|Paulo (usuário-cliente)    |Localização do hospital mais próximo.                  |Já ter mãos um local de emergências e seu status.                |
+|Marcela (usuário-cliente)  |Guia prático para casos de crise                      |Conseguir lidar com as crises sozinha                           |
+|Marcela (usuário-cliente)  |Orientações factuais sobre a doença                   |Conscientizar acerca de seus perigos e sintomas                 | 
+|Tião (usuário-cliente)     |Precisa de um cronograma                              |Organizar sua dieta alimentar e exercícios físicos              |
+|Tião (usuário-cliente)     |Forma de registrar e gerenciar o histórico da glicemia|Evitar crises de hipoglicemia                                   |
+|Geralda (usuário-cliente)  |Informativo sobre sintomas de AVC                     |Estar consciente de leves sinais que podem indicar um acidente  |
+|Geralda (usuário-cliente)  |Guia prático sobre como agir em casos emergenciais    |Saber o que faze em caso de uma emergência                      |
+|Paulo (usuário-cliente)    |Guia prático sobre sintomas de infarto                |Saber qual medida tomar em caso de infarto                      |
+|Paulo (usuário-cliente)    |Localização do hospital mais próximo                  |Já ter mãos um local de emergências e seu status                |
 
 
 ### Requisitos Funcionais
 
 |ID    | Descrição do Requisito  | Prioridade | Responsável |
 |------|-----------------------------------------|----| ----|
-|RF-001| A aplicação deve disponibilizar um informativo sobre sintomas de infarto e AVC. | ALTA | |
-|RF-002| A aplicação deve disponibilizar guia prático sobre como agir em casos de emergências. | ALTA | |
-|RF-003| A aplicação deve disponibilizar o local de onde as informações foram retiradas. | ALTA | |
-|RF-004| A aplicação deve disponibilizar um mapa mostrando os hospitais e clínicas mais próximos. | ALTA | |
-|RF-005| A aplicação deve permitir que o usuário o cadastrado tenha acesso a funcionalidades específicas do site. | ALTA | |
-|RF-006| A aplicação deve fornecer um guia de primeiros socorros. | ALTA | |
-|RF-007| A aplicação deve fornecer informações detalhadas e relevantes sobre como prevenir acidentes domésticos. | ALTA | |
-|RF-008| A aplicação deve disponibilizar números telefônicos destinados a casos de emergência. | ALTA | |
-|RF-009| A aplicação deve instruir o usuário a realizar curativos paliativos. | ALTA | |
+|RF-001| A aplicação deve disponibilizar um informativo sobre sintomas de infarto e AVC | ALTA | |
+|RF-002| A aplicação deve disponibilizar guia prático sobre como agir em casos de emergências | ALTA | |
+|RF-003| A aplicação deve disponibilizar o local de onde as informações foram retiradas | ALTA | |
+|RF-004| A aplicação deve disponibilizar um mapa mostrando os hospitais mais próximos | ALTA | |
+|RF-005| A aplicação deve permitir que o usuário cadastrado tenha acesso a funcionalidades específicas do site | ALTA | |
+|RF-006| A aplicação deve permitir a busca por prestadores de serviços de forma rápida, eficaz e precisa | ALTA | |
+|RF-007| A aplicação deve fornecer um guia de primeiros socorros | ALTA | |
+|RF-008| A aplicação deve fornecer informações detalhadas e relevantes sobre como prevenir acidentes domésticos | ALTA | |
+|RF-009| A aplicação deve disponibilizar números telefônicos destinados a casos de emergência | ALTA | |
+|RF-010| A aplicação deve instruir o usuário a realizar curativos paliativos | ALTA | |
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RF-001| A aplicação deve visualizar o site em dispositivos móveis.| ALTA | | 
-|RF-002| A aplicação deve permitir que o usuário visitante acesse o guia de emergência sem ter que fazer cadastro. | ALTA | |
-|RF-003| A aplicação deve encaminhar chamadas a centros de aconselhamentos, a fim de evitar tentativas de suícidio. | MÉDIA | |
-|RF-004| A aplicação deve utilizar uma API que conecte o usuário ao google maps.| ALTA | |
-|RF-005| A aplicação deve utilizar uma API que permita o cadastramento dos usuários. | ALTA | |
-|RF-006| A aplicação deve utilizar uma API que crie uma caixa de login para que os usuarios cadastrados tenham acesso a funcionalidades específicas do site. | ALTA | |
-|RF-007| A aplicação deve solicitar o cadastro para efetuar o registro do usuário cadastrado ou usuário visitante. | ALTA | |
-|RF-008| A aplicação deve utilizar uma API que permita que o usuário cadastrado realize o login para que tenha acesso diaramente ao registro dos níveis de glicose | ALTA | | A aplicação deve produzir um relatório de tarefas diárias. | ALTA | |
-|RF-009| A aplicação deve utilizar uma api que permita a busca de conteúdo atraves do campo de pesquisa. | ALTA | |
-
+|RF-001| A aplicação deve visualizar o site em dispositivos móveis| ALTA | | 
+|RF-002| A aplicação deve permitir que o usuário visitante acesse o guia de emergência sem ter que fazer cadastro | ALTA | |
+|RF-003| A aplicação deve encaminhar chamadas a centros de aconselhamentos, a fim de evitar tentativas de suícidio | MÉDIA | |
+|RF-004| A aplicação deve utilizar uma API que conecte o usuário ao google maps| ALTA | |
+|RF-005| A aplicação deve solicitar o cadastro para efetuar o registro do usuário cadastrado ou usuário visitante | ALTA | |
+|RF-006| A aplicação deve utilizar uma API que permita que o usuário cadastrado realize o login para que tenha acesso diaramente ao registro dos níveis de glicose | ALTA | |
+|RF-007| A aplicação deve produzir um relatório de tarefas diárias | ALTA | |
+|RF-008| A aplicação deve utilizar uma API que permita que o usuário cadastrado tenha acesso a funcionalidades específicas do site | ALTA | |
+|RF-009| A aplicação deve utilizar uma API que permita a busca de conteúdo atraves do campo de pesquisa | ALTA | |
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
@@ -78,11 +78,14 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |--|-------------------------------------------------------|
 |01| A aplicação não substitui atendimento médico.          |
 |02| Não é possivel agendar consulta médica diretamente no site. |
-|03| Não pode prescrever medicamento. |
-|04| Não pode conter anúncio de empresas privadas. |
-|05| Não foi utilizado nenhum módulo de Back-End.
-
-
+|03| Não é possivel prescrever remédios. |
+|04| Conteúdos do site não devem ser ilícitos e não podem promover violência, discurso de ódio, discriminação ou ter caráter sexual. |
+|05| As fontes não podem ser cópias ilegais ou vindas de sítes não credenciados. |
+|06| O projeto deverá ser finalizado até 16/12. |
+|07| Não será possível efetuar pagamentos pelo site. |
+|08| Cada usuário poderá cadastrar no máximo 1 conta por endereço de e-mail. |
+|09| O grupo que desenvolverá esta aplicação será composto por 5 pessoas. |
+|10| O projeto não contempla o objetivo de substitui o serviço de pronto-socorro. O foco seriam em medidas paleativas que antecederiam até a vinda da ambulância. |
 
 Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
 
