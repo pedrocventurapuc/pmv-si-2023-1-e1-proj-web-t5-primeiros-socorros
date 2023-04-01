@@ -1,8 +1,8 @@
 # Introdução
 
-Esse projeto tem como objetivo fornecer informações relacionadas a pronto-atendimento médico e quais os procedimentos a serem seguidos diante de situações de emergência. O site pode fornecer informações sobre serviços médicos, locais de tratamento e tipos específicos de serviços oferecidos. Além disso, pode fornecer tutoriais visuais que mostrem como realizar procedimentos de primeiros socorros, instruções de autocuidado.
+Este projeto tem como objetivo fornecer informações relacionadas a pronto-atendimento médico e quais os procedimentos a serem seguidos diante de situações de emergência. A aplicação poderá fornecer informações sobre serviços médicos, locais de tratamento e tipos específicos de serviços oferecidos. Além disso, pode fornecer tutoriais visuais que mostrem como realizar procedimentos de primeiros socorros, instruções de autocuidado.
 
-A interface interativa e intuitiva do site ajuda os usuários a encontrar informações para atendimentos médicos, locais de tratamento e serviços específicos além de poder ajudar os usuários a obter uma compreensão prática sobre como realizar procedimentos de primeiros socorros e instruções sobre o que fazer em caso de uma situação emergencial, bem como fornecer instruções úteis sobre como se cuidar em casa. O desenvolvimento deste site pode ajudar a melhorar a saúde e bem-estar dos usuários, além de salvar vidas em caso de uma premência.
+A interface interativa e intuitiva do site ajuda os usuários a encontrarem informações referente a atendimentos médicos, locais de tratamento e serviços específicos além de poder ajudar os usuários a obter uma compreensão prática sobre como realizar procedimentos de primeiros socorros e instruções sobre o que fazer em caso de uma situação emergencial, bem como fornecer instruções úteis sobre como se cuidar em casa. O desenvolvimento deste site pode ajudar a melhorar a saúde e bem-estar dos usuários, além de salvar vidas em caso de uma premência.
 
 ## Problema
 
@@ -18,9 +18,9 @@ O objetivo geral do nosso sistema, é prestar uma maneira fácil e rápida de cu
 
 ## Objetivos Específicos
 
-> - Fornecer infomações na forma de um guia para procedimentos de pronto-socorro, em caso de uma emergência médica ou algum acidente.
+> - Fornecer infomações na forma de um guia para procedimentos de primeiros socorros, em caso de uma emergência médica ou algum acidente.
 > - Fornecer informações de localidades de postos de saúde ou hospitais mais próximos.
-> - Forma de registro e gerenciamento diário de medicamentos, com acompanhamento rotineiro de exercícios e de alimentação.
+> - Forma de registro e gerenciamento diário de indices de glicemia, com acompanhamento rotineiro de exercícios e de alimentação.
 > - Fornecer números de emergência de órgãos responsáveis com suas respectivas localidades (Samu, Polícia, Bombeiros, etc.).
 > - Fornecer lista de contatos de emergência.
 > - Fornecer informações na forma de um guia para conscientização acerca das doenças e seus respectivos sintomas e perigos.
