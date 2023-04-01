@@ -78,17 +78,16 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |--|-------------------------------------------------------|
 |01| A aplicação não substitui atendimento médico.          |
 |02| Não é possivel agendar consulta médica diretamente no site. |
-|03| Não é possivel prescrever remédios. |
+|03| Não é possivel prescrever medicamentos. |
 |04| Conteúdos do site não devem ser ilícitos e não podem promover violência, discurso de ódio, discriminação ou ter caráter sexual. |
 |05| As fontes não podem ser cópias ilegais ou vindas de sites não credenciados. |
 |06| O projeto deverá ser finalizado até 16/12. |
 |07| Não será possível efetuar pagamentos pelo site. |
 |08| Cada usuário poderá cadastrar no máximo 1 conta por endereço de e-mail. |
 |09| O grupo que desenvolverá esta aplicação será composto por 5 pessoas. |
-|10| O projeto não contempla o objetivo de substitui o serviço de pronto-socorro. O foco seriam em medidas paleativas que antecederiam até a vinda da ambulância. |
-|11| Não pode prescrever medicamento. |
-|12| Não pode conter anúncio de empresas privadas. |
-|13| Não foi utilizado nenhum módulo de Back-End. |
+|10| O projeto não contempla o objetivo de substitui o serviço de pronto-socorro. |
+|11| Não pode conter anúncio de empresas privadas. |
+|12| Não foi utilizado nenhum módulo de Back-End. |
 
 Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
 
