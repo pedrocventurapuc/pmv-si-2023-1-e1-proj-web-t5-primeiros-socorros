@@ -29,19 +29,18 @@ O objetivo geral do nosso sistema, é prestar uma maneira fácil e rápida de cu
 
 Nos dias atuais, o homem está cada vez mais estressado, se alimentando mal e não se exercitando na maneira que deveria. Com isso, a população se torna cada vez mais obesa e sedentária acarretando em doenças crônicas e maus súbitos, como, por exemplo, infarto, acidente vascular cerebral (AVC), diabetes, entre muitos outros. Além desses fatores externos, estamos à mercê de fatalidades em nosso dia a dia, como um acidente promovido por um motorista bêbado que ultrapassou o sinal vermelho de trânsito.
 
-Uma estimativa feita pela Sociedade Brasileira de Cardiologia (SBC) mostra que, anualmente, cerca de 35 mil mortes por infarto seriam evitadas se os pacientes tivessem recebido os primeiros socorros. Além disso, durante o XV Congresso de Cardiologia de Brasília, em 2008, o tema Morte Súbita, um dos mais áridos de todo o evento, foi apresentado pelo cardiologista Márcio Sturmer. “Esse é um problema de saúde pública em qualquer lugar do mundo. A boa notícia é que 40% das mortes podem ser evitadas”.
+Uma estimativa feita pela Sociedade Brasileira de Cardiologia (SBC) mostra que, anualmente, cerca de 35 mil mortes por infarto seriam evitadas se os pacientes tivessem recebido os primeiros socorros [2]. Além disso, durante o XV Congresso de Cardiologia de Brasília, em 2008, o tema Morte Súbita, um dos mais áridos de todo o evento, foi apresentado pelo cardiologista Márcio Sturmer. “Esse é um problema de saúde pública em qualquer lugar do mundo. A boa notícia é que 40% das mortes podem ser evitadas” (STURMER, 2008) [1].
+
 De acordo com a Organização Mundial da Saúde (OMS), a cada ano, cerca de 15 milhões de pessoas sofrem um AVC em todo o mundo e cerca de 5 milhões morrem em decorrência disso e nesses casos algumas pessoas ao redor pordem não saber oque fazer para ajudar, além de levar para um hospital.
 A Organização Mundial da Saúde (OMS), estima-se também que 180.000 pessoas morrem a cada ano devido a queimaduras graves e mais de 90% dessas mortes ocorrem em países de baixa e média renda e esse tratamento depende da gravidade da lesão, as queimaduras de primeiro grau podem ser tratadas com remédios de venda livre, enquanto as queimaduras mais graves requerem os primeiros socorros adequados.
 
-Existem dois principais tipos de diabates: tipos 1 e 2. Ambos causam hiperglicemia, ou seja, aumento da glicose/açúcar no sangue. De acordo com [1]. uma a cada cinco pessoas com idade entre 65 e 69 anos vivem com diabetes. Segundo a American Diabetes Association, a obesidade é um dos fatores ligados ao aumento do risco de desenvolver diabetes, fazendo necessário o acompamento nutricional do indivíduo. 
+Existem dois principais tipos de diabates: tipos 1 e 2. Ambos causam hiperglicemia, ou seja, aumento da glicose/açúcar no sangue. De acordo com a Clinical Nutrition, uma a cada cinco pessoas com idade entre 65 e 69 anos vivem com diabetes [3]. Segundo a American Diabetes Association, a obesidade é um dos fatores ligados ao aumento do risco de desenvolver diabetes, fazendo necessário o acompamento nutricional do indivíduo. 
 
 A relação entre primeiros socorros e diabetes é muito importante, uma vez que a hipoglicemia e a hiperglicemia são duas emergências médicas que podem ocorrer em pacientes com diabetes e exigir intervenção imediata, de acordo com a American Diabetes Association (ADA), é preciso saber como controlar a hipoglicemia e a hiperglicemia, que ocorrem quando o nivel de açucar no sangue está muito baixo ou muito alta, gerando fadiga, tontura e tremores
 
 Diante desse viés, o tema escolhido fora feito com o objetivo de se desenvolver um sistema com a finalidade de auxiliar as pessoas mais leigas em caso de uma emergência médica, onde muitos não teriam as condições de ir para um hospital durante uma possível emergência, ou encontrar um pronto-socorro mais próximo ou apenas fazer um registro de medicamentos para se ter um melhor controle de seu histórico de pressão e glicerina.
 
-[1] Ultra-processed food consumption and type 2 diabetes incidence: A
-prospective cohort study. Clinical Nutrition, [S. l.], v. 40, n. 5, p. 3608–3614, 2021.
-Disponível em: https://doi.org/10.1016/j.clnu.2020.12.018
+
 
 ## Público-Alvo
 
