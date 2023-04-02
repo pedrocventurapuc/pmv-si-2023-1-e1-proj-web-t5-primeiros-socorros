@@ -4,9 +4,11 @@
 # Personas #
 ![Marcela](https://user-images.githubusercontent.com/105678089/227963189-98671a00-9992-4850-9c1a-a124252fdd2e.png)
 
+![geralda](https://user-images.githubusercontent.com/105678089/229358111-76bcd120-4ead-4345-a320-7c9c871d15c1.png)
+
 ![tião](https://user-images.githubusercontent.com/105678089/227963241-4fe7a81d-854e-4f86-9a06-bc7d118848f7.png)
 
-![geralda](https://user-images.githubusercontent.com/105678089/227267557-16c94be2-216d-49b6-bbdb-ec922013b6a9.png)
+
 ![paulo](https://user-images.githubusercontent.com/105678089/229290387-71c24b7d-e7e1-4c13-913d-d9fa773f9396.png)
 
 
