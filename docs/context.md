@@ -33,7 +33,7 @@ Uma estimativa feita pela Sociedade Brasileira de Cardiologia (SBC) mostra que, 
 
 Diabetes também está muito presente no dia-dia dos prontos-socorros, uma vez que existem dois tipos principais: 1 e 2. Que podem gerar hiperglicemia (aumento da glicose/açúcar no sangue) e hipoglicemia, às quais podem exigir intervenção médica imediata. De acordo com a Clinical Nutrition, uma a cada cinco pessoas com idade entre 65 e 69 anos vivem com diabetes [3].
 
-Conforme a American Diabetes Association (ADA), é preciso saber como controlar a diabetes, uma vez que quando ocorre, o nível de açúcar no sangue pode variar muito, gerando fadiga, tontura e tremores. Segundo a mesma, a obesidade é um dos fatores ligados ao aumento do risco de desenvolvê-la, fazendo necessário o acompamento nutricional do indivíduo.
+Conforme a American Diabetes Association (ADA), é preciso saber como controlar a diabetes, uma vez que quando ocorre, o nível de açúcar no sangue pode variar muito, gerando fadiga, tontura e tremores[4]. Segundo a mesma, a obesidade é um dos fatores ligados ao aumento do risco de desenvolvê-la, fazendo necessário o acompamento nutricional do indivíduo [4].
 
 Diante desse viés, o tema escolhido fora feito com o objetivo de se desenvolver um sistema com a finalidade de auxiliar as pessoas mais leigas em caso de uma emergência médica, onde muitos não teriam as condições de ir para um hospital durante uma mesma, encontrar um pronto-socorro mais próximo ou apenas fazer um registro de medicamentos para se ter um melhor controle de seu histórico de pressão e glicerina.
 
