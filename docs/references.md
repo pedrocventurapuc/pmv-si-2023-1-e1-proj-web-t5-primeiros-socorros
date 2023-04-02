@@ -10,12 +10,9 @@ Inclua todas as referências (livros, artigos, sites, etc) utilizadas no desenvo
 
 **[2]** - _CHAVES B. J. P. et al. **EDUCANDO PARA A SAÚDE**. Infarto agudo do miocárdio: Aracaju, SE: Fundação Estadual de Saúde- FUNESA, c2015._
 
-**[3]** - 
+**[3]** - _Clinical Nutrition [S. l.], v. 40, n. 5, p. 3608–3614, 2021. **Ultra-processed food consumption and type 2 diabetes incidence: A prospective cohort study**. Disponível em: https://doi.org/10.1016/j.clnu.2020.12.018, Acesso em: 01 Abr. 2023
 
 **[4]** - 
 
 **[5]** - 
 
-Exemplos de referências bibliográficas:
-
-_CORMEN, Thomas H. et al. **Algoritmos: teoria e prática**. Rio de Janeiro, RJ: Elsevier, Campus, c2012. xvi, 926 p. ISBN 9788535236996._
