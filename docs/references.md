@@ -16,6 +16,7 @@ Inclua todas as referências (livros, artigos, sites, etc) utilizadas no desenvo
 
 **[5]** - _BIBLIOTECA VIRTUAL EM SAÚDE. **“Minutos podem salvar vidas”: 29/10 – Dia Mundial do AVC (Acidente Vascular Cerebral)**. Disponível em: https://bvsms.saude.gov.br/minutos-podem-salvar-vidas-29-10-dia-mundial-do-avc-acidente-vascular-cerebral/
 
-**[6]** - _
+**[6]** - _BARBOSA Maycon, NISHIMURA André, WADIH Ingrid, RACANICCHI Schumann, OLIVEIRA Lucas. **Estudo epidemiológico dos pacientes atendidos no ambulatório do Centro de Tratamento de Queimaduras do Hospital Municipal do Tatuapé entre janeiro de 2019 e janeiro de 2020**. Introdução. 5. Hospital Municipal Dr. Cármino.2021 
+Caricchio , São Paulo, SP, Brasil.
 
 
