@@ -84,7 +84,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |03| Não é possivel prescrever medicamentos. |
 |04| Conteúdos do site não devem ser ilícitos e não podem promover violência, discurso de ódio, discriminação ou ter caráter sexual. |
 |05| As fontes não podem ser cópias ilegais ou vindas de sites não credenciados. |
-|06| O projeto deverá ser finalizado até 16/12. |
+|06| O projeto deverá ser finalizado até 12/07. |
 |07| Não será possível efetuar pagamentos pelo site. |
 |08| Cada usuário poderá cadastrar no máximo 1 conta por endereço de e-mail. |
 |09| O grupo que desenvolverá esta aplicação será composto por 5 pessoas. |
